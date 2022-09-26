@@ -2,7 +2,7 @@ import BookList from './components/book/BookList';
 import './App.css';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import BookDetail from './components/book/BookDetail';
-import Home from './Home';
+import Home from './components/Home/Home';
 
 function App() {
   // TODO: Add routes to books & views
